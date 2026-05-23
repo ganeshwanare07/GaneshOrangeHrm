@@ -1,0 +1,10 @@
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:61 Starting Test: Verify OrangeHRM Login Functionality
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:62 Navigating to OrangeHRM Login Page
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:64 OrangeHRM Login Page Loaded
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:66 Entering Username and Password
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:69 Clicking Login Button
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:71 Login Attempt Completed
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:73 Login Successful
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:75 Screenshot of Passed Test Saved
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:85 test_OrangeHRM_Login_002 test Completed
+[32mINFO    [0m Test_OrangeHRM_Login_001:test_OrangeHRM_Login_001.py:86 =============================================================
