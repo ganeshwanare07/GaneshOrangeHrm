@@ -3,12 +3,12 @@
 .coverage           # Exclude coverage reports
 htmlcov/            # Exclude HTML coverage output
 pytest.log          # Exclude custom log files
-.Logs/
-.Html_Report/
-.Logs/
-.Screenshots/
-.AllureReports/
-.Reports/
+Logs/
+Html_Report/
+Logs/
+Screenshots/
+AllureReports/
+Reports/
 
 # Python environment & artifacts
 __pycache__/        # Exclude compiled bytecode
