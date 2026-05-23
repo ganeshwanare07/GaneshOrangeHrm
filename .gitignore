@@ -1,0 +1,25 @@
+# Pytest specific
+.pytest_cache/      # Exclude pytest cache folder
+.coverage           # Exclude coverage reports
+htmlcov/            # Exclude HTML coverage output
+pytest.log          # Exclude custom log files
+.Logs/
+.Html_Report/
+.Logs/
+.Screenshots/
+
+# Python environment & artifacts
+__pycache__/        # Exclude compiled bytecode
+*.py[cod]           # Exclude .pyc, .pyo, or .pyd files
+.venv/              # Exclude local virtual environment
+venv/               # Alternate venv name
+env/                # Common environment folder
+*.egg-info/         # Exclude package metadata
+
+# Secrets & Config (Crucial for Automation)
+.env                # Environment variables/API keys
+config.ini    # Local configuration overrides
+
+# IDE settings
+.vscode/            # VS Code workspace settings
+.idea/              # PyCharm project settings
